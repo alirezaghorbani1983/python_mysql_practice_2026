@@ -1,3 +1,6 @@
-hello. how are you?
-I am fine
-welcome to the course
+Hello World!
+this is a new lineAppend operation taking placeAppend operation taking placeAppend operation taking place!
+ Append operation taking place!
+first line 
+second line 
+third line
