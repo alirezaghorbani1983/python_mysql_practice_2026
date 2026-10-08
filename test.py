@@ -11,5 +11,8 @@ python course
 
 from package.maths import*
 
+from package.subpackages.mult import multiply
+
 print(addition(3,4))
 print(substraction(8,10))
+print(multiply(5,6))
