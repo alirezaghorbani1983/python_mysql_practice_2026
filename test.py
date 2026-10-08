@@ -8,3 +8,8 @@ python course
 
 
 '''
+
+from package.maths import*
+
+print(addition(3,4))
+print(substraction(8,10))
